@@ -1,49 +1,55 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a first-year **M.Phil. student in Computer Science** at [Peking University](https://www.pku.edu.cn/) (2025–2028). My research sits at the intersection of **AI for Science (AI4S)**, **computational biology**, and **generative deep learning**—with a long-term goal of building intelligent systems that understand and generate biomolecular behavior at scale.
 
-A data-driven personal website
+Research narrative
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My work follows a single thread: **from biology-grounded drug discovery, to science foundation models, to generative modeling of biomolecular dynamics and efficient deep learning systems.**
 
-Getting started
+**Phase I — Biology-grounded AI for drug discovery (2021–2025, SCUT)**  
+With a B.S. in Biotechnology (rank 1/56) and a CS minor, I spent four years in Prof. Ling Wang's lab building end-to-end AI platforms for medicinal chemistry: molecular representation learning (FG-BERT), large-scale anticancer virtual screening (DeepCancerMap), and multistage antimalarial phenotypic prediction (MalariaFlow). This phase taught me how to turn biological problems into reproducible data benchmarks, models, and deployable tools.
+
+**Phase II — Science LLMs and industry-scale AI4S (2023–2025)**  
+At [DP Technology](https://www.dp.tech/), [Westlake University](https://www.westlake.edu.cn/), and [KAUST CoE GenAI](https://cemse.kaust.edu.sa/genai), I moved from task-specific predictors to **foundation models for science**—contributing to Uni-SMART and SciAssess for multimodal scientific literature understanding, and peptide structure benchmarking. At **MiniMax**, I built evaluation infrastructure for frontier language models (MiniMax-M1), connecting large-scale LLM training with rigorous scientific reasoning benchmarks.
+
+**Phase III — Generative AI for biomolecular systems (2025–present, PKU)**  
+My current focus shifts to **generative modeling of complex biomolecular processes**: long-horizon protein dynamics (BioDynaSpec, ICML 2026), probabilistic autoregressive MD (ProAR, AAAI 2026), and training-free diffusion acceleration (NeurIPS 2026). I am interested in how spectral, geometric, and probabilistic structure can make generative models both **accurate over long horizons** and **efficient at deployment scale**.
+
+Current research interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* **AI-driven drug discovery (AIDD)** — molecular representation, property prediction, and virtual screening  
+* **Generative modeling for molecular & protein dynamics** — spatio-spectral, autoregressive, and diffusion-based approaches  
+* **LLM for Science** — scientific literature understanding, evaluation, and multimodal reasoning  
+* **Efficient deep learning** — scalable training, inference acceleration, and reproducible evaluation pipelines  
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Selected highlights
+======
 
-**Markdown generator**
+* **BioDynaSpec** (ICML 2026, first author): spatio-spectral generative framework for long-horizon protein dynamics; >60% error reduction vs. SOTA on ATLAS  
+* **BeziCast** (NeurIPS 2026, co-first author): Tikhonov-stabilized Bézier forecasting for training-free diffusion acceleration (up to 4.79× on FLUX.1)  
+* **MalariaFlow** & **DeepCancerMap** (EJMC, first/co-first author): published platforms for antimalarial and anticancer drug discovery  
+* **MiniMax-M1** (2025): evaluation framework contributor for linear-complexity LLM with test-time compute scaling  
+* **Google Scholar**: H-index 9, 361+ citations ([profile](https://scholar.google.com/citations?user=OXT8aDAAAAAJ&hl=zh-CN))
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Academic service
+======
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* **Journal reviewer**: *Scientific Reports*, *Bioinformatics*, *Molecular Diversity* (2025)  
+* **Conference reviewer**: ACM MM 2026, NeurIPS 2026  
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+For a full publication list and CV, see [Publications](/publications/) and [CV](/cv/).  
+A PDF résumé is available in the repository as `resume.tex`.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Contact
+======
+
+Feel free to reach me at [linmujiegz@163.com](mailto:linmujiegz@163.com).
