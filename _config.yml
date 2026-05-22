@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Mujie Lin"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Mujie Lin"
+description              : &description "M.Phil. student in Computer Science at Peking University. Research at the intersection of AI for Science, computational biology, and generative modeling for drug discovery and biomolecular dynamics."
+url                      : https://linmj-judy.github.io
+baseurl                  : ""
+repository               : "Linmj-Judy/Linmj-Judy.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,28 +22,28 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Mujie Lin"
+  pronouns         :
+  bio              : "M.Phil. in Computer Science @ PKU. Building AI systems for molecular discovery, protein dynamics, and scientific foundation models."
+  location         : "Beijing, China"
+  employer         : "Peking University"
+  uri              :
+  email            : "linmujiegz@163.com"
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  arxiv            :
+  googlescholar    : "https://scholar.google.com/citations?user=OXT8aDAAAAAJ&hl=zh-CN"
+  impactstory      :
+  orcid            : "https://orcid.org/0009-0000-3344-2786"
+  semantic         : "https://www.semanticscholar.org/author/Mujie-Lin/2215267522"
+  pubmed           :
+  researchgate     :
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  github           : "Linmj-Judy"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "mujielin-pku"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

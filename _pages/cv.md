@@ -11,54 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.Phil. in Computer Science**, Peking University, 2025–2028 (expected)  
+  * GPA: 3.8/4.0  
+  * Core courses: Artificial Intelligence (A+), 3D Vision and Computational Photography (A+), Computer Graphics (A+)
+* **B.S. in Biotechnology**, South China University of Technology (985), 2021–2025  
+  * Overall rank: 1/56  
+* **B.E. in Computer Science (Minor)**, SCUT, 2022–2025
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **LLM Algorithm Intern**, MiniMax Co., Ltd. (Foundation Language Model Team), Beijing, Feb–Aug 2025  
+* **Research Intern**, KAUST Center of Excellence on Generative AI, Dec 2024–Mar 2025  
+* **Visiting Student**, AI Computational Biology Lab, Westlake University, Jul–Aug 2024  
+* **AI4S Innovative Algorithm Researcher (Intern)**, DP Technology Co., Ltd., Jul 2023–Mar 2024  
+* **Undergraduate Researcher**, AI & Medicinal Chemistry Laboratory, SCUT, Dec 2021–Jul 2025  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Artificial Intelligence-Driven Drug Discovery (AIDD), computational biology, generative modeling for protein/molecular dynamics, and LLM for Science.
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Academic service
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* **Journal reviewer**: *Scientific Reports* (2025), *Bioinformatics* (2025), *Molecular Diversity* (2025)  
+* **Conference reviewer**: ACM MM 2026, NeurIPS 2026  
+
+Selected honors
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Chinese National Scholarship, 2022–2023  
+* Challenge Cup National Competition, Grand Prize (Top 0.01%), Jointly Responsible  
+* National College Student Innovation Training Program, Outstanding Completion (Project Leader)  
+
+Full résumé: see `resume.tex` in the [GitHub repository](https://github.com/Linmj-Judy/Linmj-Judy.github.io).
