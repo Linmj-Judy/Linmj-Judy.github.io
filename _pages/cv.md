@@ -21,6 +21,7 @@ Education
 Research experience
 ======
 * **LLM Algorithm Intern**, MiniMax Co., Ltd. (Foundation Language Model Team), Beijing, Feb–Aug 2025  
+  * Contributor to [MiniMax-M1](https://arxiv.org/abs/2506.13585): evaluation framework & reasoning benchmarks; [GitHub 3.2k+ ★](https://github.com/MiniMax-AI/MiniMax-M1) · [HF #1 Paper of the Day](https://huggingface.co/papers/2506.13585)
 * **Research Intern**, KAUST Center of Excellence on Generative AI, Dec 2024–Mar 2025  
 * **Visiting Student**, AI Computational Biology Lab, Westlake University, Jul–Aug 2024  
 * **AI4S Innovative Algorithm Researcher (Intern)**, DP Technology Co., Ltd., Jul 2023–Mar 2024  
