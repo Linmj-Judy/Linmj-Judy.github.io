@@ -23,7 +23,7 @@ At [DP Technology](https://www.dp.tech/), [Westlake University](https://www.west
 At **[MiniMax](https://www.minimax.io/)** (Foundation Language Model Team, Feb–Aug 2025), I contributed to **[MiniMax-M1](https://arxiv.org/abs/2506.13585)**—the world's first open-weight, large-scale hybrid-attention reasoning model (456B MoE, 1M-token context, Lightning Attention). I built the automated evaluation framework and reasoning benchmarks that supported large-scale pre-training and post-training iteration. The release reached [3.2k+ GitHub stars](https://github.com/MiniMax-AI/MiniMax-M1), [#1 on Hugging Face Daily Papers](https://huggingface.co/collections/MiniMaxAI/minimax-m1), and [media coverage](https://mp.weixin.qq.com/s/DpIz2fPKqfRThrTdZzG2ww).
 
 **Phase III — Generative AI for biomolecular systems (2025–present, PKU)**  
-My current focus shifts to **generative modeling of complex biomolecular processes**: long-horizon protein dynamics (BioDynaSpec, ICML 2026), probabilistic autoregressive MD (ProAR, AAAI 2026), and training-free diffusion acceleration (NeurIPS 2026). I am interested in how spectral, geometric, and probabilistic structure can make generative models both **accurate over long horizons** and **efficient at deployment scale**.
+My current focus shifts to **generative modeling of complex biomolecular processes**: long-horizon protein dynamics (BioDynaSpec, ICML 2026), probabilistic autoregressive MD (ProAR, AAAI 2026), and training-free diffusion acceleration (manuscript under review). I am interested in how spectral, geometric, and probabilistic structure can make generative models both **accurate over long horizons** and **efficient at deployment scale**.
 
 Current research interests
 ======
@@ -55,7 +55,7 @@ Academic & research highlights
 ------
 
 * **BioDynaSpec** (ICML 2026, first author): spatio-spectral generative framework for long-horizon protein dynamics; >60% error reduction vs. SOTA on ATLAS  
-* **BeziCast** (NeurIPS 2026, co-first author): Tikhonov-stabilized Bézier forecasting for training-free diffusion acceleration (up to 4.79× on FLUX.1)  
+* **Training-free diffusion acceleration** (co-first author, manuscript under review): details deferred on the public site during peer review  
 * **MalariaFlow** & **DeepCancerMap** (EJMC, first/co-first author): published platforms for antimalarial and anticancer drug discovery  
 * **Uni-SMART** (arXiv 2024): multimodal science literature model; [Hugging Face Paper of the Day](https://huggingface.co/papers/2403.10301)  
 * **Google Scholar**: H-index 9, 411+ citations ([profile](https://scholar.google.com/citations?user=OXT8aDAAAAAJ&hl=zh-CN))
