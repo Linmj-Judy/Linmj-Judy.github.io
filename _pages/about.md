@@ -36,7 +36,7 @@ Current research interests
 Research Engineering
 ======
 
-I build end-to-end research systems for scientific deep learning and foundation-model evaluation. I **independently implemented the full [BioDynaSpec](https://icml.cc/virtual/2026/poster/63769) codebase**([Github](https://github.com/Linmj-Judy/BioDynaSpec))—molecular dynamics preprocessing, spectral transformation, representation caching, frequency-domain autoregressive diffusion, PyTorch Lightning/DDP training, trajectory reconstruction, and scientific evaluation metrics. At MiniMax, I built industrial LLM evaluation infrastructure for coding and agentic tasks, sandboxed execution, and large-scale cluster workflows.
+I build end-to-end research systems for scientific deep learning and foundation-model evaluation. I **independently implemented the full [BioDynaSpec](https://icml.cc/virtual/2026/poster/63769) codebase** ([GitHub](https://github.com/Linmj-Judy/BioDynaSpec))—MD-to-spectrum pipelines, AlphaFold3/OpenFold-style geometric diffusion modeling, custom sequence-parallel autograd ops, fine-grained activation checkpointing for memory-constrained training, PyTorch Lightning/DDP infrastructure, trajectory reconstruction, and scientific evaluation metrics. At MiniMax, I built industrial LLM evaluation infrastructure for coding and agentic tasks, sandboxed execution, and large-scale cluster workflows.
 
 **[Full engineering profile →](/engineering/)**
 
