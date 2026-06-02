@@ -22,7 +22,7 @@ Technical stack
 End-to-end scientific ML systems
 ------
 
-* **Independently implemented the full BioDynaSpec codebase**, covering molecular dynamics data preparation, spectral preprocessing, model architecture, training, inference, evaluation, visualization, and reproducibility documentation.
+* **Independently implemented [the full BioDynaSpec codebase](https://github.com/Linmj-Judy/BioDynaSpec)**, covering molecular dynamics data preparation, spectral preprocessing, geometric diffusion modeling, custom distributed/memory optimizations, training, inference, evaluation, visualization, and reproducibility documentation.
 * Built complete workflows for dataset preprocessing, dataloader construction, model training, checkpointing, validation, inference, metric computation, and result analysis.
 * Developed training and fine-tuning pipelines for diffusion models, autoregressive generative models, graph neural networks, molecular language models, and scientific multimodal models.
 * Designed evaluation pipelines for both academic benchmarks and industrial LLM evaluation, supporting automated model comparison, error analysis, and iterative model improvement.
