@@ -21,7 +21,7 @@ repository               : "Linmj-Judy/Linmj-Judy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "self_portrait.jpg"
+  avatar           : "self_portrait_avatar.jpg"
   name             : "Mujie Lin"
   pronouns         :
   bio              : "M.Phil. in Computer Science @ PKU. Building AI systems for molecular discovery, protein dynamics, and scientific foundation models."
