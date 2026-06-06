@@ -13,6 +13,20 @@ Hi there! I am **Mujie Lin**, an M.Phil. student in Computer Science at [Peking 
 
 My research interests include **AI for Science**, **computational biology**, **AI-driven drug discovery**, and **generative modeling for biomolecular dynamics**. I am especially interested in building reliable deep learning systems that connect scientific data, foundation models, and deployable research tools.
 
+<!-- ## Research Interest
+
+* **Generative modeling for biomolecular dynamics:** spatio-spectral, autoregressive, and diffusion-based models for long-horizon protein and molecular dynamics generation.
+* **AI-driven drug discovery:** molecular representation learning, property and phenotype prediction, virtual screening, and benchmark/platform development for medicinal chemistry.
+* **Scientific foundation models:** multimodal and language models for scientific literature understanding, molecular knowledge reasoning, and AI4S evaluation.
+* **Efficient scientific ML systems:** scalable training, inference acceleration, automated evaluation, and reproducible pipelines for research deployment.
+ -->
+## Research Interests
+
+* **Generative modeling for biomolecular dynamics:** spatio-spectral, autoregressive, and diffusion-based models for long-horizon protein and molecular dynamics generation, conformational ensemble modeling, and dynamics-aware design.
+* **Protein and molecular design:** structure-conditioned generation, protein–ligand/co-design, and dynamics-guided biomolecular design.
+* **AI-driven drug discovery:** molecular representation learning, property and phenotype prediction, virtual screening for medicinal chemistry.
+* **Scientific foundation models and evaluation:** multimodal and language models for scientific literature understanding, molecular knowledge reasoning, AI4S benchmarks, and agentic evaluation pipelines.
+
 ## News
 
 * **2026.05:** **[BioDynaSpec](/publication/2026-icml-biodynaspec)** accepted to ICML 2026.
