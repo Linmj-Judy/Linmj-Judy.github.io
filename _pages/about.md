@@ -22,7 +22,7 @@ My research interests include **AI for Science**, **computational biology**, **A
  -->
 ## Research Interests
 
-* **Generative modeling for biomolecular dynamics:** spatio-spectral, autoregressive, and diffusion-based models for long-horizon protein and molecular dynamics generation, conformational ensemble modeling, and dynamics-aware design.
+* **Generative modeling for biomolecular dynamics:** spatio-temporal/spatio-spectral, autoregressive, and diffusion-based models for long-horizon protein and molecular dynamics generation, conformational ensemble modeling, and dynamics-aware design.
 * **Protein and molecular design:** structure-conditioned generation, protein–ligand/co-design, and dynamics-guided biomolecular design.
 * **AI-driven drug discovery:** molecular representation learning, property and phenotype prediction, virtual screening for medicinal chemistry.
 * **Scientific foundation models and evaluation:** multimodal and language models for scientific literature understanding, molecular knowledge reasoning, AI4S benchmarks, and agentic evaluation pipelines.
