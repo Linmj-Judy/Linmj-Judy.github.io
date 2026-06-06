@@ -7,98 +7,109 @@ redirect_from:
   - /about.html
 ---
 
-<section class="home-intro" markdown="1">
+<div class="home-page" markdown="1">
 
-Hi, I am **Mujie Lin**, an **M.Phil. student in Computer Science at Peking University**. I build AI systems for **molecular discovery**, **protein dynamics**, and **scientific foundation models**.
+Hi there! I am **Mujie Lin**, an M.Phil. student in Computer Science at [Peking University](https://www.pku.edu.cn/). Before that, I received my B.S. in Biotechnology from South China University of Technology, where I ranked **1/56**, with a minor in Computer Science.
 
-My work connects computational biology and deep learning: from drug-discovery benchmarks and platforms, to science LLM evaluation, to generative models that simulate biomolecular behavior over long horizons.
+My research interests include **AI for Science**, **computational biology**, **AI-driven drug discovery**, and **generative modeling for biomolecular dynamics**. I am especially interested in building reliable deep learning systems that connect scientific data, foundation models, and deployable research tools.
 
-<div class="home-actions">
-  <a class="btn btn--info" href="/publications/">Publications</a>
-  <a class="btn" href="/engineering/">Research Engineering</a>
-  <a class="btn" href="/cv/">CV</a>
+## News
+
+* **2026.06:** **BioDynaSpec** accepted to ICML 2026.
+* **2026.01:** **ProAR** accepted to AAAI 2026.
+* **2025.06:** Contributed to **[MiniMax-M1](https://arxiv.org/abs/2506.13585)** in the MiniMax Foundation Language Model Team.
+* **2025.01:** **[SciAssess](https://aclanthology.org/2025.findings-naacl.125/)** accepted to NAACL 2025 Findings.
+* **2024.05:** **[MalariaFlow](/publication/2024-malariaflow)** published in *European Journal of Medicinal Chemistry*.
+
+## Selected Publications and Preprints
+
+<div class="home-publication" markdown="1">
+<div class="home-pub-venue">ICML 2026</div>
+<div class="home-pub-body" markdown="1">
+**[BioDynaSpec: Harmonic-Guided Spatio-Spectral Autoregressive Diffusion for Protein Dynamics Generation](/publication/2026-icml-biodynaspec)**
+
+**Mujie Lin**, Yutian Liu, Yudi Guo, Yanzhen Hou, Yiheng Tao, Ruochong Zheng, Kaiwen Cheng, Xin Shan, Youdong Mao, Jie Chen
+
+[[Paper](https://icml.cc/virtual/2026/poster/63769)] [[Code](https://github.com/Linmj-Judy/BioDynaSpec)]
+
+Spatio-spectral generative modeling for long-horizon protein dynamics, reducing trajectory error by over 60% on ATLAS.
+</div>
 </div>
 
-</section>
+<div class="home-publication" markdown="1">
+<div class="home-pub-venue">AAAI 2026</div>
+<div class="home-pub-body" markdown="1">
+**[ProAR: Probabilistic Autoregressive Modeling for Molecular Dynamics](/publication/2026-aaai-proar)**
 
-Research Interests
-======
+Kaiwen Cheng, Yutian Liu, Zhiwei Nie, **Mujie Lin**, Yanzhen Hou, Yiheng Tao, Chang Liu, Jie Chen, Youdong Mao, Yonghong Tian
 
-<div class="home-tags">
-  <span>AI for Science</span>
-  <span>AI-driven drug discovery</span>
-  <span>Protein and molecular dynamics</span>
-  <span>Generative modeling</span>
-  <span>LLM for Science</span>
-  <span>Efficient deep learning systems</span>
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/36974)]
+
+Probabilistic autoregressive generation of molecular dynamics trajectories with anti-drifting sampling for long-horizon stability.
+</div>
 </div>
 
-News
-======
+<div class="home-publication" markdown="1">
+<div class="home-pub-venue">arXiv 2025</div>
+<div class="home-pub-body" markdown="1">
+**[MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](https://arxiv.org/abs/2506.13585)**
 
-* **2026.06**: **BioDynaSpec** accepted to ICML 2026, focusing on spatio-spectral generative modeling for long-horizon protein dynamics.
-* **2026.01**: **ProAR** accepted to AAAI 2026 for probabilistic autoregressive molecular dynamics generation.
-* **2025.06**: Contributed to **[MiniMax-M1](https://arxiv.org/abs/2506.13585)** as part of the MiniMax Foundation Language Model Team.
-* **2025.01**: **[SciAssess](https://aclanthology.org/2025.findings-naacl.125/)** accepted to NAACL 2025 Findings.
+Aili Chen, Aonian Li, ..., **Mujie Lin**, ..., et al.
 
-Selected Work
-======
+[[Paper](https://arxiv.org/abs/2506.13585)] [[Code](https://github.com/MiniMax-AI/MiniMax-M1)] [[Models](https://huggingface.co/collections/MiniMaxAI/minimax-m1)]
 
-<div class="home-card-grid" markdown="1">
-
-<article class="home-card" markdown="1">
-<p class="home-card__meta">ICML 2026 · First author</p>
-### [BioDynaSpec](/publication/2026-icml-biodynaspec)
-A spatio-spectral autoregressive diffusion framework for long-horizon protein dynamics generation, reducing trajectory error by over 60% on ATLAS.
-</article>
-
-<article class="home-card" markdown="1">
-<p class="home-card__meta">MiniMax 2025 · Contributor</p>
-### [MiniMax-M1](https://arxiv.org/abs/2506.13585)
-Open-weight hybrid-attention reasoning model. I built automated evaluation infrastructure and reasoning benchmarks for model iteration.
-</article>
-
-<article class="home-card" markdown="1">
-<p class="home-card__meta">EJMC 2024 · First author</p>
-### [MalariaFlow](/publication/2024-malariaflow)
-A comprehensive deep learning platform for multistage antimalarial drug discovery, from curated benchmark data to validated screening workflows.
-</article>
-
-<article class="home-card" markdown="1">
-<p class="home-card__meta">arXiv 2024 · Science LLM</p>
-### [Uni-SMART](/publication/2024-uni-smart)
-A multimodal scientific literature model for molecules, tables, and charts, featured as Hugging Face Paper of the Day.
-</article>
-
+Open-weight hybrid-attention reasoning model. I built automated evaluation infrastructure and reasoning benchmarks for large-scale model iteration.
+</div>
 </div>
 
-Background
-======
+<div class="home-publication" markdown="1">
+<div class="home-pub-venue">EJMC 2024</div>
+<div class="home-pub-body" markdown="1">
+**[MalariaFlow: A Comprehensive Deep Learning Platform for Multistage Phenotypic Antimalarial Drug Discovery](/publication/2024-malariaflow)**
 
-<div class="home-two-col" markdown="1">
+**Mujie Lin**, Junxi Cai, Yuancheng Wei, Xinru Peng, Qianhui Luo, Biaoshun Li, Yihao Chen, Ling Wang
 
-<section markdown="1">
-### Education
-* **M.Phil. in Computer Science**, Peking University, 2025–2028 expected
-* **B.S. in Biotechnology**, South China University of Technology, rank 1/56
-* **B.E. Minor in Computer Science**, South China University of Technology
-</section>
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0223523424006573)]
 
-<section markdown="1">
-### Experience
-* **MiniMax**, Foundation Language Model Team, 2025
-* **Syneron Bio & KAUST CoE GenAI**, machine learning research intern, 2024–2025
-* **DP Technology**, AI4S innovative algorithm researcher, 2023–2024
-* **AI & Medicinal Chemistry Lab, SCUT**, undergraduate researcher, 2021–2025
-</section>
-
+A curated antimalarial activity benchmark and deep learning platform for multistage phenotypic drug discovery.
+</div>
 </div>
 
-Service and Contact
-======
+<div class="home-publication" markdown="1">
+<div class="home-pub-venue">arXiv 2024</div>
+<div class="home-pub-body" markdown="1">
+**[Uni-SMART: Universal Science Multimodal Analysis and Research Transformer](/publication/2024-uni-smart)**
 
-* **Reviewer**: *Scientific Reports*, *Bioinformatics*, *Molecular Diversity*, ACM MM 2026, NeurIPS 2026
-* **Google Scholar**: H-index 9, 411+ citations ([profile](https://scholar.google.com/citations?user=OXT8aDAAAAAJ&hl=zh-CN))
-* **Email**: [linmujiegz@163.com](mailto:linmujiegz@163.com) · [mjlin25@stu.pku.edu.cn](mailto:mjlin25@stu.pku.edu.cn)
+Hengxing Cai, Xiaochen Cai, Shuwen Yang, Jiankun Wang, Lin Yao, ..., **Mujie Lin**, ..., Guolin Ke
 
-For details, see the full [publication list](/publications/), [research engineering profile](/engineering/), and [CV](/cv/).
+[[Project](https://uni-smart.dp.tech/)] [[Paper](https://arxiv.org/abs/2403.10301)] [[Code](https://github.com/dptech-corp/Uni-SMART)]
+
+Multimodal scientific literature understanding for molecules, tables, and charts; featured as Hugging Face Paper of the Day.
+</div>
+</div>
+
+## Honors and Awards
+
+* Chinese National Scholarship, 2022-2023
+* Challenge Cup National Competition, Grand Prize, jointly responsible
+* National College Student Innovation Training Program, Outstanding Completion, project leader
+
+## Educations
+
+* **2025.09 - now**, M.Phil. student, School of Computer Science, Peking University
+* **2021.09 - 2025.06**, B.S. in Biotechnology, South China University of Technology
+* **2022.09 - 2025.06**, Minor in Computer Science, South China University of Technology
+
+## Internships
+
+* **2025.02 - 2025.08**, LLM Algorithm Intern, Foundation Language Model Team, MiniMax
+* **2024.12 - 2025.03**, Machine Learning Research Intern, Syneron Bio & KAUST Center of Excellence on Generative AI
+* **2024.07 - 2024.08**, Visiting Student, AI Computational Biology Lab, Westlake University
+* **2023.07 - 2024.03**, AI4S Innovative Algorithm Researcher Intern, DP Technology
+
+## Academic Service
+
+* **Journal reviewer:** *Scientific Reports*, *Bioinformatics*, *Molecular Diversity*
+* **Conference reviewer:** ACM MM 2026, NeurIPS 2026
+
+</div>
