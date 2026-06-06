@@ -9,17 +9,18 @@ redirect_from:
 
 <div class="home-page" markdown="1">
 
-Hi there! I am **Mujie Lin**, an M.Phil. student in Computer Science at [Peking University](https://www.pku.edu.cn/). Before that, I received my B.S. in Biotechnology from South China University of Technology, where I ranked **1/56**, with a minor in Computer Science.
+Hi there! I am **Mujie Lin**, an M.Phil. student in Computer Science at [Peking University](https://www.pku.edu.cn/). Before that, I received my B.S. in Biotechnology from South China University of Technology, with a minor in Computer Science.
 
 My research interests include **AI for Science**, **computational biology**, **AI-driven drug discovery**, and **generative modeling for biomolecular dynamics**. I am especially interested in building reliable deep learning systems that connect scientific data, foundation models, and deployable research tools.
 
 ## News
 
-* **2026.06:** **BioDynaSpec** accepted to ICML 2026.
-* **2026.01:** **ProAR** accepted to AAAI 2026.
+* **2026.05:** **[BioDynaSpec](/publication/2026-icml-biodynaspec)** accepted to ICML 2026.
+* **2025.11:** **[ProAR](/publication/2026-aaai-proar)** accepted to AAAI 2026.
 * **2025.06:** Contributed to **[MiniMax-M1](https://arxiv.org/abs/2506.13585)** in the MiniMax Foundation Language Model Team.
-* **2025.01:** **[SciAssess](https://aclanthology.org/2025.findings-naacl.125/)** accepted to NAACL 2025 Findings.
-* **2024.05:** **[MalariaFlow](/publication/2024-malariaflow)** published in *European Journal of Medicinal Chemistry*.
+* **2025.01:** **[SciAssess](https://aclanthology.org/2025.findings-naacl.125/)** (work done during internship at [DP Technology](https://www.dp.tech/)) accepted to NAACL 2025 Findings.
+* **2024.05:** **[MalariaFlow](/publication/2024-malariaflow)** published in *European Journal of Medicinal Chemistry* (SCI, JCR Q1).
+* **2023.11:** **[FG-BERT](/publication/2023-fg-bert)** published in *Briefings in Bioinformatics* (SCI, JCR Q1).
 
 ## Selected Publications and Preprints
 
@@ -71,7 +72,7 @@ Open-weight hybrid-attention reasoning model. I built automated evaluation infra
 
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0223523424006573)]
 
-A curated antimalarial activity benchmark and deep learning platform for multistage phenotypic drug discovery.
+A curated antimalarial activity prediction platform for multistage phenotypic drug discovery.
 </div>
 </div>
 
