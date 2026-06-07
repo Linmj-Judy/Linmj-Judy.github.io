@@ -98,7 +98,7 @@ A unified deep learning framework for antibody-drug conjugate activity predictio
 
 **Mujie Lin**, Junxi Cai, Yuancheng Wei, Xinru Peng, Qianhui Luo, Biaoshun Li, Yihao Chen, Ling Wang
 
-[[Paper](https://www.sciencedirect.com/science/article/pii/S0223523424006573)]
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0223523424006573)][[Webserver](https://malariaflow.idruglab.cn)]
 
 A curated antimalarial activity prediction platform for multistage phenotypic drug discovery.
 </div>
