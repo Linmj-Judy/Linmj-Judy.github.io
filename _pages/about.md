@@ -29,7 +29,7 @@ My research interests include **AI for Science**, **computational biology**, **A
 
 ## News
 
-* **2026.06:** **[SyntheticBench](/_publications/2026-syntheticbench)** (work done during internship at Syneron Bio & KAUST Center of Excellence on Generative AI) accepted to *Genomics, Proteomics & Bioinformatics* (SCI, JCR Q1 TOP, IF = 13.9).
+* **2026.06:** **[SyntheticBench](/publication/2026-syntheticbench)** (work done during internship at Syneron Bio & KAUST Center of Excellence on Generative AI) accepted to *Genomics, Proteomics & Bioinformatics* (SCI, JCR Q1 TOP, IF = 13.9).
 * **2026.05:** **[BioDynaSpec](/publication/2026-icml-biodynaspec)** (first-author work) accepted to ICML 2026.
 * **2025.11:** **[ProAR](/publication/2026-aaai-proar)** accepted to AAAI 2026.
 * **2025.06:** Contributed to **[MiniMax-M1](https://arxiv.org/abs/2506.13585)** in the MiniMax Foundation Language Model Team.
