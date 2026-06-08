@@ -25,10 +25,10 @@ author:
   name             : "Mujie Lin"
   pronouns         :
   bio              : "M.Phil. in Computer Science @ PKU. Building AI systems for molecular discovery, protein dynamics, and scientific foundation models."
-  location         : "Beijing, China"
+  location         : "Shenzhen, China"
   employer         : "Peking University"
   uri              :
-  email            : "linmujiegz@163.com"
+  email            : "mjlin25@stu.pku.edu.cn"
 
   # Academic websites
   arxiv            :
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
