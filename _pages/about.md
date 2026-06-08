@@ -29,13 +29,14 @@ My research interests include **AI for Science**, **computational biology**, **A
 
 ## News
 
-* **2026.05:** **[BioDynaSpec](/publication/2026-icml-biodynaspec)** accepted to ICML 2026.
+* **2026.06:** **[SyntheticBench](/_publications/2026-syntheticbench)** (work done during internship at Syneron Bio & KAUST Center of Excellence on Generative AI) accepted to *Genomics, Proteomics & Bioinformatics* (SCI, JCR Q1 TOP, IF = 13.9).
+* **2026.05:** **[BioDynaSpec](/publication/2026-icml-biodynaspec)** (first-author work) accepted to ICML 2026.
 * **2025.11:** **[ProAR](/publication/2026-aaai-proar)** accepted to AAAI 2026.
 * **2025.06:** Contributed to **[MiniMax-M1](https://arxiv.org/abs/2506.13585)** in the MiniMax Foundation Language Model Team.
-* **2025.05:** **[ADCNet](/publication/2025-adcnet)** published in *Briefings in Bioinformatics* (SCI, JCR Q1).
+* **2025.05:** **[ADCNet](/publication/2025-adcnet)** published in *Briefings in Bioinformatics* (SCI, JCR Q1, IF = 8.7).
 * **2025.01:** **[SciAssess](https://aclanthology.org/2025.findings-naacl.125/)** (work done during internship at [DP Technology](https://www.dp.tech/)) accepted to NAACL 2025 Findings.
-* **2024.05:** **[MalariaFlow](/publication/2024-malariaflow)** published in *European Journal of Medicinal Chemistry* (SCI, JCR Q1).
-* **2023.11:** **[FG-BERT](/publication/2023-fg-bert)** published in *Briefings in Bioinformatics* (SCI, JCR Q1).
+* **2024.05:** **[MalariaFlow](/publication/2024-malariaflow)** (first-author work) published in *European Journal of Medicinal Chemistry* (SCI, JCR Q1, IF = 6.4).
+* **2023.11:** **[FG-BERT](/publication/2023-fg-bert)** (second-author work) published in *Briefings in Bioinformatics* (SCI, JCR Q1, IF = 8.7).
 
 ## Selected Publications and Preprints
 
