@@ -139,7 +139,7 @@ Functional-group-based molecular representation learning for transferable molecu
 
 ## Educations
 
-* **2025.09 - now**, M.Phil. student, School of Computer Science, Peking University
+* **2025.09 - now**, M.Phil. student in Computer Science and Technology, Peking University
 * **2021.09 - 2025.06**, B.S. in Biotechnology, South China University of Technology
 * **2022.09 - 2025.06**, Minor in Computer Science, South China University of Technology
 
