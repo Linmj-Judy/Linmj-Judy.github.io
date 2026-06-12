@@ -48,4 +48,4 @@ Selected honors
 * Challenge Cup National Competition, Grand Prize (Top 0.01%), Jointly Responsible  
 * National College Student Innovation Training Program, Outstanding Completion (Project Leader)  
 
-Full résumé: see `resume.tex` in the [GitHub repository](https://github.com/Linmj-Judy/Linmj-Judy.github.io).
+[Full résumé](/files/林慕婕_MujieLin_CV_for_industry.pdf)
