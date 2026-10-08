@@ -11,7 +11,9 @@ redirect_from:
 
 Hi there! I am **Mujie Lin(林慕婕)**, an M.Phil. student in Computer Science at [Peking University](https://www.pku.edu.cn/). Before that, I received my B.S. in Biotechnology from South China University of Technology, with a minor in Computer Science.
 
-My research interests include **AI for Science**, **computational biology**, **AI-driven drug discovery**, and **generative modeling for biomolecular dynamics**. I am especially interested in building reliable deep learning systems that connect scientific data, foundation models, and deployable research tools.
+My research spans two complementary directions: **large language models and scientific agents**, focusing on post-training, evaluation, and scientific reasoning; and **scientific foundation and generative models**, with applications in biomolecular dynamics, protein and molecular design, and AI-driven drug discovery.
+
+I am particularly interested in bridging **foundation model reasoning and biomolecular modeling** to advance reliable, verifiable, and AI-driven scientific discovery.
 
 <!-- ## Research Interest
 
