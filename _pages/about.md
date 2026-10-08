@@ -25,10 +25,11 @@ My research interests include **AI for Science**, **computational biology**, **A
 * **Generative modeling for biomolecular dynamics:** spatio-temporal/spatio-spectral, autoregressive, and diffusion-based models for long-horizon protein and molecular dynamics generation, conformational ensemble modeling, and dynamics-aware design.
 * **Protein and molecular design:** structure-conditioned generation, protein–ligand/co-design, and dynamics-guided biomolecular design.
 * **AI-driven drug discovery:** molecular representation learning, property and phenotype prediction, virtual screening for medicinal chemistry.
-* **Scientific foundation models and evaluation:** multimodal and language models for scientific literature understanding, molecular knowledge reasoning, AI4S benchmarks, and agentic evaluation pipelines.
+* **LLM for Science:** large language models and multimodal foundation models for scientific literature understanding, molecular knowledge reasoning, and AI4S benchmarks; and agentic research systems that keep long-horizon computational workflows inspectable, resumable, and reproducible ([OpenAI4S](/publication/2026-openai4s)).
 
 ## News
 
+* **2026.10:** **[BeziCast](/publication/2026-bezicast)** (co-first author work) accepted to NeurIPS 2026 as a poster — training-free diffusion acceleration via Tikhonov-stabilized Bézier representation forecasting.
 * **2026.09:** **[PhiFold](/publication/2026-phifold)** (co-first author work) released on arXiv — dynamic protein design via physics-structured covariance modeling.
 * **2026.09:** **[OpenAI4S](/publication/2026-openai4s)** released on arXiv — an open-source scientific research agent with persistent execution and session-level provenance ([code](https://github.com/PKU-YuanGroup/OpenAI4S)).
 * **2026.06:** **[SyntheticBench](/publication/2026-syntheticbench)** (work done during internship at Syneron Bio & KAUST Center of Excellence on Generative AI) accepted to *Genomics, Proteomics & Bioinformatics* (SCI, JCR Q1 TOP, IF = 13.9).
@@ -41,6 +42,19 @@ My research interests include **AI for Science**, **computational biology**, **A
 * **2023.11:** **[FG-BERT](/publication/2023-fg-bert)** (second-author work) published in *Briefings in Bioinformatics* (SCI, JCR Q1, IF = 8.7).
 
 ## Selected Publications and Preprints
+
+<div class="home-publication" markdown="1">
+<div class="home-pub-venue">NeurIPS 2026</div>
+<div class="home-pub-body" markdown="1">
+**[Tikhonov-Stabilized Bézier Representation Forecasting for Training-free Diffusion Acceleration](/publication/2026-bezicast)**
+
+Lei Zhu#, **Mujie Lin**#, Ruochong Zheng, Guangyi Wang, Hao Li, Peng Jin, Chang Liu, Jie Chen
+
+[[Publication page](/publication/2026-bezicast)]
+
+Training-free diffusion acceleration by forecasting output-proximal denoising representations along low-order Bézier trajectories, with Tikhonov-stabilized control-point fitting. Up to 4.79× speedup on FLUX.1 and 4.11× on HunyuanVideo. (#Equal contribution)
+</div>
+</div>
 
 <div class="home-publication" markdown="1">
 <div class="home-pub-venue">arXiv 2026</div>
