@@ -56,7 +56,7 @@ Lei Zhu#, **Mujie Lin**#, Ruochong Zheng, Guangyi Wang, Hao Li, Peng Jin, Chang 
 
 [[Publication page](/publication/2026-bezicast)]
 
-Training-free diffusion acceleration by forecasting output-proximal denoising representations along low-order Bézier trajectories, with Tikhonov-stabilized control-point fitting. Up to 4.79× speedup on FLUX.1 and 4.11× on HunyuanVideo. (#Equal contribution; †Corresponding authors)
+Training-free diffusion acceleration by forecasting output-proximal denoising representations along low-order Bézier trajectories, with Tikhonov-stabilized control-point fitting. Up to 4.79× speedup on FLUX.1 and 4.11× on HunyuanVideo.
 </div>
 </div>
 
@@ -69,7 +69,7 @@ Yutian Liu#, **Mujie Lin**#, Lanqian Zhang#, Meng Fan, Chang Liu†, Zhiwei Nie�
 
 [[Paper](https://arxiv.org/abs/2609.32309)]
 
-Joint generation of protein backbones and their second-order dynamics via a compact, physically constrained covariance representation. (#Equal contribution; †Corresponding authors)
+Joint generation of protein backbones and their second-order dynamics via a compact, physically constrained covariance representation.
 </div>
 </div>
 
@@ -82,7 +82,7 @@ Gongbo Zhang*, Hao Li*, Yu Wang, **Mujie Lin**, Liuzhenghao Lv, Yicheng Mao, Yim
 
 [[Paper](https://arxiv.org/abs/2609.15096)] [[Code](https://github.com/PKU-YuanGroup/OpenAI4S)]
 
-Open-source scientific research agent with a persistent runtime, append-only Action Ledger, and workspace checkpoints for inspectable, resumable, and reproducible long-horizon studies. (*Equal contribution)
+Open-source scientific research agent with a persistent runtime, append-only Action Ledger, and workspace checkpoints for inspectable, resumable, and reproducible long-horizon studies.
 </div>
 </div>
 
