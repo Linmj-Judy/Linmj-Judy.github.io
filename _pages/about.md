@@ -29,6 +29,8 @@ My research interests include **AI for Science**, **computational biology**, **A
 
 ## News
 
+* **2026.09:** **[PhiFold](/publication/2026-phifold)** (co-first author work) released on arXiv — dynamic protein design via physics-structured covariance modeling.
+* **2026.09:** **[OpenAI4S](/publication/2026-openai4s)** released on arXiv — an open-source scientific research agent with persistent execution and session-level provenance ([code](https://github.com/PKU-YuanGroup/OpenAI4S)).
 * **2026.06:** **[SyntheticBench](/publication/2026-syntheticbench)** (work done during internship at Syneron Bio & KAUST Center of Excellence on Generative AI) accepted to *Genomics, Proteomics & Bioinformatics* (SCI, JCR Q1 TOP, IF = 13.9).
 * **2026.05:** **[BioDynaSpec](/publication/2026-icml-biodynaspec)** (first-author work) accepted to ICML 2026.
 * **2025.11:** **[ProAR](/publication/2026-aaai-proar)** accepted to AAAI 2026.
@@ -39,6 +41,32 @@ My research interests include **AI for Science**, **computational biology**, **A
 * **2023.11:** **[FG-BERT](/publication/2023-fg-bert)** (second-author work) published in *Briefings in Bioinformatics* (SCI, JCR Q1, IF = 8.7).
 
 ## Selected Publications and Preprints
+
+<div class="home-publication" markdown="1">
+<div class="home-pub-venue">arXiv 2026</div>
+<div class="home-pub-body" markdown="1">
+**[PhiFold: Towards Dynamic Protein Design with Physics-Structured Covariance Modeling](/publication/2026-phifold)**
+
+Yutian Liu#, **Mujie Lin**#, Lanqian Zhang#, Meng Fan, Chang Liu†, Zhiwei Nie†, Siwei Ma†
+
+[[Paper](https://arxiv.org/abs/2609.32309)]
+
+Joint generation of protein backbones and their second-order dynamics via a compact, physically constrained covariance representation. (#Equal contribution; †Corresponding authors)
+</div>
+</div>
+
+<div class="home-publication" markdown="1">
+<div class="home-pub-venue">arXiv 2026</div>
+<div class="home-pub-body" markdown="1">
+**[OpenAI4S: Code as Action, Science as Sessions](/publication/2026-openai4s)**
+
+Gongbo Zhang*, Hao Li*, Yu Wang, **Mujie Lin**, Liuzhenghao Lv, Yicheng Mao, Yimi Wang, Jun Zhu, Minhan Tang, Zhengxiang Jiang, Yusong Wang, Jiayu Yao, Kunpeng Ning, Dawei Pang, Yonghong Tian, OpenAI4S Community, Yuyang Liu, Li Yuan
+
+[[Paper](https://arxiv.org/abs/2609.15096)] [[Code](https://github.com/PKU-YuanGroup/OpenAI4S)]
+
+Open-source scientific research agent with a persistent runtime, append-only Action Ledger, and workspace checkpoints for inspectable, resumable, and reproducible long-horizon studies. (*Equal contribution)
+</div>
+</div>
 
 <div class="home-publication" markdown="1">
 <div class="home-pub-venue">ICML 2026</div>
