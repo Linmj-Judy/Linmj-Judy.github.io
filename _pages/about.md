@@ -52,11 +52,11 @@ My research interests include **AI for Science**, **computational biology**, **A
 <div class="home-pub-body" markdown="1">
 **[Tikhonov-Stabilized Bézier Representation Forecasting for Training-free Diffusion Acceleration](/publication/2026-bezicast)**
 
-Lei Zhu#, **Mujie Lin**#, Ruochong Zheng, Guangyi Wang, Hao Li, Peng Jin, Chang Liu, Jie Chen
+Lei Zhu#, **Mujie Lin**#, Ruochong Zheng, Guangyi Wang, Hao Li, Peng Jin, Chang Liu†, Jie Chen†
 
 [[Publication page](/publication/2026-bezicast)]
 
-Training-free diffusion acceleration by forecasting output-proximal denoising representations along low-order Bézier trajectories, with Tikhonov-stabilized control-point fitting. Up to 4.79× speedup on FLUX.1 and 4.11× on HunyuanVideo. (#Equal contribution)
+Training-free diffusion acceleration by forecasting output-proximal denoising representations along low-order Bézier trajectories, with Tikhonov-stabilized control-point fitting. Up to 4.79× speedup on FLUX.1 and 4.11× on HunyuanVideo. (#Equal contribution; †Corresponding authors)
 </div>
 </div>
 

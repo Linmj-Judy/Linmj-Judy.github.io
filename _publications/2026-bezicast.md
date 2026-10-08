@@ -6,7 +6,7 @@ excerpt: 'A training-free diffusion acceleration framework that forecasts output
 date: 2026-10-08
 venue: 'Conference on Neural Information Processing Systems (NeurIPS 2026), poster'
 paperurl: ''
-citation: 'Lei Zhu#, Mujie Lin#, Ruochong Zheng, Guangyi Wang, Hao Li, Peng Jin, Chang Liu, Jie Chen. &quot;Tikhonov-Stabilized Bézier Representation Forecasting for Training-free Diffusion Acceleration.&quot; <i>NeurIPS</i>, 2026.'
+citation: 'Lei Zhu#, Mujie Lin#, Ruochong Zheng, Guangyi Wang, Hao Li, Peng Jin, Chang Liu&dagger;, Jie Chen&dagger;. &quot;Tikhonov-Stabilized Bézier Representation Forecasting for Training-free Diffusion Acceleration.&quot; <i>NeurIPS</i>, 2026.'
 ---
 
 ## Links
@@ -22,4 +22,4 @@ Diffusion models, particularly Diffusion Transformers, achieve strong image and 
 
 Co-first author (equal contribution). Contributed to idea design, implementation, experiment execution, theoretical proof, and paper writing.
 
-<small><sup>#</sup>These authors contributed equally to this work.</small>
+<small><sup>#</sup>These authors contributed equally to this work. <sup>&dagger;</sup>Corresponding authors.</small>
