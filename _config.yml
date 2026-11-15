@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Mujie Lin"
 title_separator          : "-"
 name                     : &name "Mujie Lin"
-description              : &description "M.Phil. student in Computer Science at Peking University. Research at the intersection of AI for Science, computational biology, and generative modeling for drug discovery and biomolecular dynamics."
+description              : &description "M.S. student in Computer Science at Peking University. Research at the intersection of AI for Science, computational biology, and generative modeling for drug discovery and biomolecular dynamics."
 url                      : https://linmj-judy.github.io
 baseurl                  : ""
 repository               : "Linmj-Judy/Linmj-Judy.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "self_portrait_avatar.jpg"
   name             : "Mujie Lin"
   pronouns         :
-  bio              : "M.Phil. in Computer Science @ PKU. Building AI systems for molecular discovery, protein dynamics, and scientific foundation models."
+  bio              : "M.S. in Computer Science @ PKU. Building AI systems for molecular discovery, protein dynamics, and scientific foundation models."
   location         : "Shenzhen, China"
   employer         : "Peking University"
   uri              :

@@ -9,13 +9,12 @@ redirect_from:
 
 <div class="home-page" markdown="1">
 
-I am supervised by [Prof. Jie Chen](https://www.ece.pku.edu.cn/info/1046/2492.htm) in the [AIMIA Lab](https://aimia-pku.github.io/), with co-supervision from [Prof. Youdong Mao](https://www.aais.pku.edu.cn/info/1424/2799.htm).
+Hi there! I am **Mujie Lin (林慕婕)**, an M.S. student in Computer Science at the [School of Electronic and Computer Engineering](https://www.ece.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Jie Chen](https://www.ece.pku.edu.cn/info/1046/2492.htm) at the [AIMIA Lab](https://aimia-pku.github.io/), with co-supervision from [Prof. Youdong Mao](https://www.aais.pku.edu.cn/info/1424/2799.htm). Before that, I received my B.S. in Biotechnology, with a minor in Computer Science, from the [South China University of Technology](https://www.scut.edu.cn/).
 
-Hi there! I am **Mujie Lin(林慕婕)**, an M.Phil. student in Computer Science at [Peking University](https://www.pku.edu.cn/). Before that, I received my B.S. in Biotechnology from South China University of Technology, with a minor in Computer Science.
+My research focuses on AI for Science, spanning scientific reasoning and agents, biomolecular dynamics and design, and generative modeling. I am particularly interested in building reliable scientific AI systems that combine foundation model reasoning, physically grounded generation, and verifiable scientific computation.
+<!-- My research spans two complementary directions: **large language models and scientific agents**, focusing on post-training, evaluation, and scientific reasoning; and **scientific foundation and generative models**, with applications in biomolecular dynamics, protein and molecular design, and AI-driven drug discovery.
 
-My research spans two complementary directions: **large language models and scientific agents**, focusing on post-training, evaluation, and scientific reasoning; and **scientific foundation and generative models**, with applications in biomolecular dynamics, protein and molecular design, and AI-driven drug discovery.
-
-I am particularly interested in bridging **foundation model reasoning and biomolecular modeling** to advance reliable, verifiable, and AI-driven scientific discovery.
+I am particularly interested in bridging **foundation model reasoning and biomolecular modeling** to advance reliable, verifiable, and AI-driven scientific discovery. -->
 
 
 <iframe
@@ -56,7 +55,7 @@ I am particularly interested in bridging **foundation model reasoning and biomol
 * **2025.11:** **[ProAR](/publication/2026-aaai-proar)** accepted to AAAI 2026.
 * **2025.06:** Contributed to **[MiniMax-M1](https://arxiv.org/abs/2506.13585)** in the MiniMax Foundation Language Model Team.
 * **2025.05:** **[ADCNet](/publication/2025-adcnet)** published in *Briefings in Bioinformatics* (SCI, JCR Q1, IF = 8.7).
-* **2025.02:** Joined the MiniMax Foundation Language Model Team as a research intern.
+* **2025.02:** Joined the **MiniMax Foundation Language Model Team** as a research intern.
 * **2025.01:** **[SciAssess](https://aclanthology.org/2025.findings-naacl.125/)** (work done during internship at [DP Technology](https://www.dp.tech/)) accepted to NAACL 2025 Findings.
 * **2024.05:** **[MalariaFlow](/publication/2024-malariaflow)** (first-author work) published in *European Journal of Medicinal Chemistry* (SCI, JCR Q1, IF = 6.4).
 * **2023.11:** **[FG-BERT](/publication/2023-fg-bert)** (second-author work) published in *Briefings in Bioinformatics* (SCI, JCR Q1, IF = 8.7).
@@ -208,9 +207,8 @@ Functional-group-based molecular representation learning for transferable molecu
 
 ## Educations
 
-* **2025.09 - now**, M.Phil. student in Computer Science and Technology, Peking University
-* **2021.09 - 2025.06**, B.S. in Biotechnology, South China University of Technology
-* **2022.09 - 2025.06**, Minor in Computer Science, South China University of Technology
+* **2025.09 - now**, M.S. student in Computer Science and Technology, Peking University
+* **2021.09 - 2025.06**, B.S. in Biotechnology, Minor in Computer Science, South China University of Technology
 
 ## Internships
 
@@ -222,7 +220,7 @@ Functional-group-based molecular representation learning for transferable molecu
 ## Honors and Awards
 
 * **2026:** Peking University Merit Student<br>
-  Ranked 10th out of 115 students (top 8.7%) in the first academic year of the M.Phil. program.
+  Ranked 10th out of 115 students (top 8.7%) in the first academic year of the M.S. program.
 * **2024:** **National College Student Innovation Training Program, Outstanding Completion | Project Leader**<br>
   Project: [*Application of a Multitask Deep Learning Algorithm for PI3K/AKT/mTOR (PAM) Pathway Inhibitor Activity Prediction and Development of a Cloud Computing Platform*](https://www.gjcxcy.cn/ZPZS/GGCG/Detail?XaBaZWAVWb1xqQ0hBBvLREBkPM1Mjfn2p9Hm4q8aStIhy7vmV7p010RBMUOz2o07) (Project No. 202310561121).<br>
   Selected as a Reform Achievement Showcase Project at the National College Students' Innovation Annual Conference, one of only four projects selected university-wide.
@@ -235,6 +233,6 @@ Functional-group-based molecular representation learning for transferable molecu
 ## Academic Service
 
 * **Journal reviewer:** *Scientific Reports*, *Bioinformatics*, *Molecular Diversity*
-* **Conference reviewer:** ACM MM 2026, NeurIPS 2026
+* **Conference reviewer:** ACM MM 2026, NeurIPS 2026, AAAI 2026
 
 </div>
