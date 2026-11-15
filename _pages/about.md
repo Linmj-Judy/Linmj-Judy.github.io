@@ -11,7 +11,7 @@ redirect_from:
 
 Hi there! I am **Mujie Lin (林慕婕)**, an M.S. student in Computer Science at the [School of Electronic and Computer Engineering](https://www.ece.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Jie Chen](https://www.ece.pku.edu.cn/info/1046/2492.htm) at the [AIMIA Lab](https://aimia-pku.github.io/), with co-supervision from [Prof. Youdong Mao](https://www.aais.pku.edu.cn/info/1424/2799.htm). Before that, I received my B.S. in Biotechnology, with a minor in Computer Science, from the [South China University of Technology](https://www.scut.edu.cn/).
 
-My research focuses on AI for Science, spanning scientific reasoning and agents, biomolecular dynamics and design, and generative modeling. I am particularly interested in building reliable scientific AI systems that combine foundation model reasoning, physically grounded generation, and verifiable scientific computation.
+My research focuses on **AI for Science** and **LLM for Science**, spanning **scientific reasoning and agents, biomolecular dynamics and design, and generative modeling**. I am particularly interested in building reliable scientific AI systems that combine foundation model reasoning, physically grounded generation, and verifiable scientific computation.
 
 <!-- My research spans two complementary directions: **large language models and scientific agents**, focusing on post-training, evaluation, and scientific reasoning; and **scientific foundation and generative models**, with applications in biomolecular dynamics, protein and molecular design, and AI-driven drug discovery.
 
@@ -51,7 +51,7 @@ I am particularly interested in bridging **foundation model reasoning and biomol
 * **2026.09:** **[PhiFold](/publication/2026-phifold)** (co-first author work) released on arXiv — dynamic protein design via physics-structured covariance modeling.
 * **2026.09:** **[OpenAI4S](/publication/2026-openai4s)** released on arXiv — an open-source scientific research agent with persistent execution and session-level provenance ([code](https://github.com/PKU-YuanGroup/OpenAI4S)).
 * **2026.06:** **[SyntheticBench](/publication/2026-syntheticbench)** (work done during internship at Syneron Bio & KAUST Center of Excellence on Generative AI) accepted to *Genomics, Proteomics & Bioinformatics* (SCI, JCR Q1 TOP, IF = 13.9).
-* **2026.05:** Co-authored **[The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence](/publication/2026-minimax-m2)**, an arXiv technical report on sparse Mixture-of-Experts models and agent-native reinforcement learning.
+* **2026.05:** Co-authored **[The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence](/publication/2026-minimax-m2)**, an technical report on sparse Mixture-of-Experts models and agent-native reinforcement learning.
 * **2026.05:** **[BioDynaSpec](/publication/2026-icml-biodynaspec)** (first-author work) accepted to ICML 2026.
 * **2025.11:** **[ProAR](/publication/2026-aaai-proar)** accepted to AAAI 2026.
 * **2025.06:** Contributed to **[MiniMax-M1](https://arxiv.org/abs/2506.13585)** in the MiniMax Foundation Language Model Team.
