@@ -1,0 +1,79 @@
+---
+layout: null
+permalink: /research-interests.html
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Research Interests — Mujie Lin</title>
+<style>
+  :root { color-scheme: light; }
+  body { margin: 0; padding: 32px 18px; background: #f8fafc; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; }
+</style>
+</head>
+<body>
+<!-- Copy from here into the Research Interests section of your homepage. -->
+<section class="ri" aria-labelledby="ri-heading">
+  <style>
+    .ri { --ri-ink:#243244; --ri-muted:#617184; --ri-border:#dfe7ef; --ri-teal:#0f766e; --ri-indigo:#4f46a5; color:var(--ri-ink); max-width:900px; margin:0 auto; font-family:inherit; }
+    .ri * { box-sizing:border-box; }
+    .ri-heading { font-size:1.45rem; font-weight:700; letter-spacing:-.025em; margin:0 0 16px; }
+    .ri-intro { text-align:center; border:1px solid var(--ri-border); background:#fff; border-radius:12px; padding:18px 20px; }
+    .ri-intro strong { display:block; font-size:1.04rem; line-height:1.4; }
+    .ri-intro span { display:block; margin-top:5px; font-size:.82rem; color:var(--ri-muted); }
+    .ri-fork { position:relative; height:24px; margin:0 15%; border-bottom:1.5px solid #b9c7d7; }
+    .ri-fork:before { content:""; position:absolute; width:1.5px; height:100%; left:50%; background:#b9c7d7; }
+    .ri-fork:after { content:""; position:absolute; width:1.5px; height:9px; left:0; bottom:-9px; background:#b9c7d7; box-shadow:calc((900px - 40px) * .7) 0 #b9c7d7; display:none; }
+    .ri-columns { display:grid; grid-template-columns:1fr 1fr; gap:16px; padding-top:13px; }
+    .ri-track { border:1px solid var(--ri-border); background:#fff; border-radius:12px; overflow:hidden; min-width:0; }
+    .ri-track--llm { border-top:4px solid var(--ri-indigo); }
+    .ri-track--bio { border-top:4px solid var(--ri-teal); }
+    .ri-track-header { padding:16px 18px 11px; border-bottom:1px solid #edf0f4; }
+    .ri-track-num { display:block; text-transform:uppercase; color:var(--ri-muted); font-size:.69rem; font-weight:650; letter-spacing:.09em; margin-bottom:7px; }
+    .ri-track-title { font-size:1.06rem; line-height:1.35; font-weight:720; margin:0; }
+    .ri-track--llm .ri-track-title { color:var(--ri-indigo); }
+    .ri-track--bio .ri-track-title { color:var(--ri-teal); }
+    .ri-items { display:grid; gap:10px; padding:14px; }
+    .ri-item { padding:12px 13px; border:1px solid #e8edf3; border-radius:8px; background:#fbfcfe; }
+    .ri-item h4 { font-size:.88rem; line-height:1.3; font-weight:680; margin:0 0 5px; }
+    .ri-item p { margin:0; line-height:1.47; font-size:.77rem; color:var(--ri-muted); }
+    .ri-converge { display:flex; justify-content:center; align-items:center; height:29px; position:relative; }
+    .ri-converge:before { content:""; position:absolute; top:0; left:25%; width:50%; height:13px; border-left:1.5px solid #b9c7d7; border-right:1.5px solid #b9c7d7; border-bottom:1.5px solid #b9c7d7; border-radius:0 0 6px 6px; }
+    .ri-converge:after { content:""; position:absolute; height:16px; width:1.5px; background:#b9c7d7; left:50%; bottom:0; }
+    .ri-outlook { text-align:center; padding:14px 20px; border-radius:11px; border:1px dashed #c9d4e0; background:#f2f6fa; }
+    .ri-outlook strong { font-size:.95rem; display:block; }
+    .ri-outlook p { font-size:.79rem; line-height:1.55; margin:5px 0 0; color:var(--ri-muted); }
+    @media(max-width:640px) { .ri-heading{font-size:1.3rem;} .ri-columns{grid-template-columns:1fr;gap:12px;} .ri-fork,.ri-converge{display:none;} .ri-track-header{padding:14px 16px 10px;} .ri-items{padding:12px;} .ri-outlook{margin-top:12px;} }
+    @media(prefers-color-scheme:dark) { .ri {--ri-ink:#e7edf6;--ri-muted:#acb8c9;--ri-border:#344052;--ri-teal:#5eead4;--ri-indigo:#b1aafa;} .ri-intro,.ri-track{background:#1d2634;} .ri-track-header{border-color:#344052;} .ri-item{background:#252f3e;border-color:#39465a;} .ri-outlook{background:#242f3e;border-color:#53647a;} }
+  </style>
+  <h2 id="ri-heading" class="ri-heading">Research Interests</h2>
+  <div class="ri-intro">
+    <strong>AI for Scientific Discovery</strong>
+    <span>Scientific reasoning · Physically grounded generation · Verifiable computation</span>
+  </div>
+  <div class="ri-fork" aria-hidden="true"></div>
+  <div class="ri-columns">
+    <div class="ri-track ri-track--llm">
+      <div class="ri-track-header"><span class="ri-track-num">Research track 01</span><h3 class="ri-track-title">Large Language Models &amp; Scientific Agents</h3></div>
+      <div class="ri-items">
+        <div class="ri-item"><h4>Foundation Model Evaluation &amp; Post-training</h4><p>Capability-driven data synthesis · Supervised fine-tuning · Reinforcement learning · Evaluation-driven improvement</p></div>
+        <div class="ri-item"><h4>Scientific Reasoning &amp; Agentic Intelligence</h4><p>Scientific knowledge reasoning · Tool-augmented problem solving · Scientific agent post-training · Verifiable research workflows</p></div>
+      </div>
+    </div>
+    <div class="ri-track ri-track--bio">
+      <div class="ri-track-header"><span class="ri-track-num">Research track 02</span><h3 class="ri-track-title">Scientific Foundation &amp; Generative Models</h3></div>
+      <div class="ri-items">
+        <div class="ri-item"><h4>Biomolecular Dynamics</h4><p>Spatiotemporal and spatio-spectral modeling · Autoregressive and diffusion generation · Conformational ensembles</p></div>
+        <div class="ri-item"><h4>Protein &amp; Molecular Design</h4><p>Structure-conditioned generation · Sequence–structure co-design · Protein–ligand modeling · Dynamics-guided design</p></div>
+        <div class="ri-item"><h4>AI-driven Drug Discovery</h4><p>Molecular representation learning · Property and phenotype prediction · Virtual screening</p></div>
+      </div>
+    </div>
+  </div>
+  <div class="ri-converge" aria-hidden="true"></div>
+  <div class="ri-outlook"><strong>Where the Two Tracks Meet</strong><p>Autonomous scientific discovery through reasoning agents, physically grounded models, and verifiable computational feedback.</p></div>
+</section>
+<!-- End copy -->
+</body>
+</html>

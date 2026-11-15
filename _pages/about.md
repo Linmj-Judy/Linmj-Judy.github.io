@@ -9,11 +9,22 @@ redirect_from:
 
 <div class="home-page" markdown="1">
 
+I am supervised by [Prof. Jie Chen](https://www.ece.pku.edu.cn/info/1046/2492.htm) in the [AIMIA Lab](https://aimia-pku.github.io/), with co-supervision from [Prof. Youdong Mao](https://www.aais.pku.edu.cn/info/1424/2799.htm).
+
 Hi there! I am **Mujie Lin(林慕婕)**, an M.Phil. student in Computer Science at [Peking University](https://www.pku.edu.cn/). Before that, I received my B.S. in Biotechnology from South China University of Technology, with a minor in Computer Science.
 
 My research spans two complementary directions: **large language models and scientific agents**, focusing on post-training, evaluation, and scientific reasoning; and **scientific foundation and generative models**, with applications in biomolecular dynamics, protein and molecular design, and AI-driven drug discovery.
 
 I am particularly interested in bridging **foundation model reasoning and biomolecular modeling** to advance reliable, verifiable, and AI-driven scientific discovery.
+
+
+<iframe
+  src="{{ '/research-interests.html' | relative_url }}"
+  title="Research Interests"
+  style="width:100%;height:800px;border:0;"
+  loading="lazy">
+</iframe>
+
 
 <!-- ## Research Interest
 
@@ -22,16 +33,17 @@ I am particularly interested in bridging **foundation model reasoning and biomol
 * **Scientific foundation models:** multimodal and language models for scientific literature understanding, molecular knowledge reasoning, and AI4S evaluation.
 * **Efficient scientific ML systems:** scalable training, inference acceleration, automated evaluation, and reproducible pipelines for research deployment.
  -->
-## Research Interests
+
+<!-- ## Research Interests
 
 * **Large Language Models and Scientific Agents**
-  * **Foundation model evaluation and post-training:** LLM evaluation, capability-driven data synthesis, supervised fine-tuning, reinforcement learning, and evaluation-driven model improvement.
+  * **Foundation model evaluation and post-training** LLM evaluation, capability-driven data synthesis, supervised fine-tuning, reinforcement learning, and evaluation-driven model improvement.
   * **Scientific reasoning and agentic intelligence:** Scientific knowledge reasoning, tool-augmented problem solving, scientific agent post-training, and verifiable research workflows.
 
 * **Scientific Foundation and Generative Models**
   * **Biomolecular dynamics:** Spatiotemporal and spatio-spectral generative modeling, autoregressive and diffusion-based molecular dynamics generation, and conformational ensemble modeling.
   * **Protein and molecular design:** Structure-conditioned generation, sequence–structure co-design, protein–ligand modeling, and dynamics-guided biomolecular design.
-  * **AI-driven drug discovery:** Molecular representation learning, property and phenotype prediction, and virtual screening for medicinal chemistry.
+  * **AI-driven drug discovery:** Molecular representation learning, property and phenotype prediction, and virtual screening for medicinal chemistry. -->
 
 ## News
 
@@ -194,18 +206,6 @@ Functional-group-based molecular representation learning for transferable molecu
 </div>
 </div>
 
-## Honors and Awards
-
-* **2026:** Peking University Merit Student<br>
-  Ranked 10th out of 115 students (top 8.7%) in the first academic year of the M.Phil. program.
-* **2024:** **National College Student Innovation Training Program, Outstanding Completion | Project Leader**<br>
-  Project: [*Application of a Multitask Deep Learning Algorithm for PI3K/AKT/mTOR (PAM) Pathway Inhibitor Activity Prediction and Development of a Cloud Computing Platform*](https://www.gjcxcy.cn/ZPZS/GGCG/Detail?XaBaZWAVWb1xqQ0hBBvLREBkPM1Mjfn2p9Hm4q8aStIhy7vmV7p010RBMUOz2o07) (Project No. 202310561121).<br>
-  Selected as a Reform Achievement Showcase Project at the National College Students' Innovation Annual Conference, one of only four projects selected university-wide.
-* **2023:** **National Grand Prize, 18th "Challenge Cup" China College Students' Extracurricular Academic Science and Technology Contest | Team Leader**<br>
-  Historic achievement: First Grand Prize since 2011 and only the 3rd in university history (out of 1,000+ competing universities).<br>
-  Project: [*"Jingcheng Smart Medicine, AI Empowerment" — Deep Learning-Driven Drug Design and Discovery: Methods and Applications*](https://mp.weixin.qq.com/s/dfnudr_sg4otRnXWMi9Xhw)
-* **2022–2023:** Chinese National Scholarship
-
 ## Educations
 
 * **2025.09 - now**, M.Phil. student in Computer Science and Technology, Peking University
@@ -218,6 +218,19 @@ Functional-group-based molecular representation learning for transferable molecu
 * **2024.12 - 2025.03**, Machine Learning Research Intern, Syneron Bio & KAUST Center of Excellence on Generative AI
 * **2024.07 - 2024.08**, Visiting Student, AI Computational Biology Lab, Westlake University
 * **2023.07 - 2024.03**, AI4S Innovative Algorithm Researcher Intern, DP Technology
+
+## Honors and Awards
+
+* **2026:** Peking University Merit Student<br>
+  Ranked 10th out of 115 students (top 8.7%) in the first academic year of the M.Phil. program.
+* **2024:** **National College Student Innovation Training Program, Outstanding Completion | Project Leader**<br>
+  Project: [*Application of a Multitask Deep Learning Algorithm for PI3K/AKT/mTOR (PAM) Pathway Inhibitor Activity Prediction and Development of a Cloud Computing Platform*](https://www.gjcxcy.cn/ZPZS/GGCG/Detail?XaBaZWAVWb1xqQ0hBBvLREBkPM1Mjfn2p9Hm4q8aStIhy7vmV7p010RBMUOz2o07) (Project No. 202310561121).<br>
+  Selected as a Reform Achievement Showcase Project at the National College Students' Innovation Annual Conference, one of only four projects selected university-wide.
+* **2023:** **National Grand Prize, 18th "Challenge Cup" China College Students' Extracurricular Academic Science and Technology Contest | Team Leader**<br>
+  Historic achievement: First Grand Prize since 2011 and only the 3rd in university history (out of 1,000+ competing universities).<br>
+  Project: [*"Jingcheng Smart Medicine, AI Empowerment" — Deep Learning-Driven Drug Design and Discovery: Methods and Applications*](https://mp.weixin.qq.com/s/dfnudr_sg4otRnXWMi9Xhw)
+* **2022–2023:** Chinese National Scholarship
+
 
 ## Academic Service
 
