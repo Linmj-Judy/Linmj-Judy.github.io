@@ -12,6 +12,7 @@ redirect_from:
 Hi there! I am **Mujie Lin (林慕婕)**, an M.S. student in Computer Science at the [School of Electronic and Computer Engineering](https://www.ece.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Jie Chen](https://www.ece.pku.edu.cn/info/1046/2492.htm) at the [AIMIA Lab](https://aimia-pku.github.io/), with co-supervision from [Prof. Youdong Mao](https://www.aais.pku.edu.cn/info/1424/2799.htm). Before that, I received my B.S. in Biotechnology, with a minor in Computer Science, from the [South China University of Technology](https://www.scut.edu.cn/).
 
 My research focuses on AI for Science, spanning scientific reasoning and agents, biomolecular dynamics and design, and generative modeling. I am particularly interested in building reliable scientific AI systems that combine foundation model reasoning, physically grounded generation, and verifiable scientific computation.
+
 <!-- My research spans two complementary directions: **large language models and scientific agents**, focusing on post-training, evaluation, and scientific reasoning; and **scientific foundation and generative models**, with applications in biomolecular dynamics, protein and molecular design, and AI-driven drug discovery.
 
 I am particularly interested in bridging **foundation model reasoning and biomolecular modeling** to advance reliable, verifiable, and AI-driven scientific discovery. -->
